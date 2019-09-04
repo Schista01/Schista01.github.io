@@ -205,7 +205,7 @@ background-position: 0 -70px;
 }
 
 .custom .face {
-    /*background: url(https://schista01.github.io/dpad.svg);*/
+    background: url(https://schista01.github.io/dpad.svg);
     position: absolute;
 }
 
@@ -223,7 +223,6 @@ background-position: 0 -70px;
     left: 44px;
     top: 0;
     background-position: -37px 0px;
-    background: url(https://schista01.github.io/dpad.svg);
 }
 
 .custom .face.down {
