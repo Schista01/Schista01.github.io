@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.custom {
-    background: url(https://i.imgur.com/Eu7FzZk.png);
+    background: url(https://schista01.github.io/base_finish_gold.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -8,7 +8,7 @@
 }
 
 .custom.disconnected {
-    background: url(https://i.imgur.com/tGwes9M.png);
+    background: url(https://schista01.github.io/disconnected_m.svgz);
 }
 
 .custom.disconnected div {
@@ -251,7 +251,7 @@ background-position: 0 -70px;
 .custom.half {
     margin-top: -300px;
 }
-
+/*
 .custom .touchpad{
     position:absolute;
     height: 624px;
@@ -268,7 +268,7 @@ background-position: 0 -70px;
     background: url(touchpad.png);
     background-repeat:no-repeat; 
 }
-
+*/
 /*END PS4 Controller Styling*/
 
 /*END PS4 Controller Styling*/
