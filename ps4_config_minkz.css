@@ -8,7 +8,7 @@
 }
 
 .custom.disconnected {
-    background: url(https://schista01.github.io/disconnected_m.svgz);
+    background: url(https://schista01.github.io/disconnected_m.svg);
 }
 
 .custom.disconnected div {
@@ -25,7 +25,7 @@
 .custom .trigger {
     width: 99px;
     height: 100%;
-    background: url(https://i.imgur.com/FX9f5Ba.png);
+    background: url(https://schista01.github.io/triggers_m.svg);
     opacity: 0;
 }
 
@@ -41,7 +41,7 @@
 .custom .bumper {
     width: 99px;
     height: 23px;
-    background: url(https://i.imgur.com/I34eLNP.png) no-repeat;
+    background: url(https://schista01.github.io/bumper.svg) no-repeat;
     opacity: 0;
 }
 
@@ -98,7 +98,7 @@ background-position: 0 -70px;
 }
 
 .custom .back, .custom .start {
-    background: url(https://i.imgur.com/X6SJYeK.png);
+    background: url(https://schista01.github.io/start_m.svg);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -133,7 +133,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://schista01.github.io/face.svg);
+    background: url(https://schista01.github.io/face_m.svg);
 }
 
 .custom .button.pressed {
@@ -173,7 +173,7 @@ background-position: 0 -70px;
 
 .custom .stick {
     position: absolute;
-    background: url(https://schista01.github.io/sticks.svg);
+    background: url(https://schista01.github.io/sticks_m.svg);
     height: 94px;
     width: 94px;
 }
@@ -205,7 +205,7 @@ background-position: 0 -70px;
 }
 
 .custom .face {
-    background: url(https://schista01.github.io/dpad.svg);
+    background: url(https://schista01.github.io/dpad_m.svg);
     position: absolute;
 }
 
