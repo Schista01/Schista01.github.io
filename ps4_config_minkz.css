@@ -25,7 +25,7 @@
 .custom .trigger {
     width: 99px;
     height: 100%;
-    background: url(https://schista01.github.io/triggers_m.svg);
+    background: url(https://schista01.github.io/triggers_mi.svg);
     opacity: 0;
 }
 
@@ -41,7 +41,7 @@
 .custom .bumper {
     width: 99px;
     height: 23px;
-    background: url(https://schista01.github.io/bumper.svg) no-repeat;
+    background: url(https://schista01.github.io/bumper_mi.svg) no-repeat;
     opacity: 0;
 }
 
@@ -98,7 +98,7 @@ background-position: 0 -70px;
 }
 
 .custom .back, .custom .start {
-    background: url(https://schista01.github.io/start_m.svg);
+    background: url(https://schista01.github.io/start_mi.svg);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -173,7 +173,7 @@ background-position: 0 -70px;
 
 .custom .stick {
     position: absolute;
-    background: url(https://schista01.github.io/sticks_m.svg);
+    background: url(https://schista01.github.io/sticks_mi.svg);
     height: 94px;
     width: 94px;
 }
@@ -205,7 +205,7 @@ background-position: 0 -70px;
 }
 
 .custom .face {
-    background: url(https://schista01.github.io/dpad_m.svg);
+    background: url(https://schista01.github.io/dpad_mi.svg);
     position: absolute;
 }
 
