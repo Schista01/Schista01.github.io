@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.custom {
-    background: url(https://schista01.github.io/goldy1.png);
+    background: url(https://schista01.github.io/base_mi.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -173,7 +173,7 @@ background-position: 0 -70px;
 
 .custom .stick {
     position: absolute;
-    background: url(https://schista01.github.io/sticks_mi.svg);
+    background: url(https://schista01.github.io/sticks_min.svg);
     height: 94px;
     width: 94px;
 }
